@@ -1,0 +1,100 @@
+## Qt Creator 项目文件 ##
+*.user
+*.user.*
+*.pro.user
+*.pro.user.*
+
+## 构建目录 ##
+build-*/
+*/build-*
+*.build
+*.build.*
+Debug/
+Release/
+x64/
+x86/
+*.autosave
+
+## 编译生成文件 ##
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.app
+*.ilk
+*.exp
+*.pdb
+*.idb
+*.manifest
+*.qm
+*.qmlc
+*.jaml
+
+## Qt 相关 ##
+Makefile*
+*.qmake.stash
+.qmake.stash
+*.moc
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+*.qrc.depends
+*.qrc
+*.qrc.*
+*.ts
+*.qm
+
+## IDE 和编辑器 ##
+.idea/
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.opendb
+*.pidb
+*.db
+
+## 系统文件 ##
+.DS_Store
+Thumbs.db
+*.swp
+*~
+*.orig
+*.rej
+*.bak
+*.tmp
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+## 依赖目录 ##
+bin/
+lib/
+*.depend
+*.plist
+
+## 测试相关 ##
+test-results/
+*.test
+*.out
+*.trs
+
+## 其他 ##
+*.autosave
+*.stackdump
+*.core
+*.core.*
+*.swp
+*~
